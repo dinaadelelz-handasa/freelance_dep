@@ -1,0 +1,56 @@
+﻿add_frame_qlabat --> in add_new_machine_qlabat
+add_frame_qlabat_from_select --> in add_new_machine_qlabat
+
+done
+--------------------
+qlabat
+diana
+ksara
+mdkhat
+markabat
+bus
+edara
+okhra --> هنضيفها على جدول اد نيو ماشين العادي موش مهم نعملها جدول تاني
+ 
+done
+-----------------------------
+select done for all pages
+select in modal
+
+done
+--------------------------
+عرض الجدول افقي done
+------------------------
+update
+done
+------------------------
+
+maint a3tal all done
+done
+-------------------------------
+حذف- delete in all machines
+لسة موش done
+------
+تحويل من قيد التشغيل الى معطلة والعكس ابديت يحصل
+done معطلة
+done قيد التشغيل
+--------------------
+باقي التعديلات الاضافات 
+done database - add pages - insert
+-----------------
+
+ومسح معطلة من جدول وعمل اكسيل للاصلاحات
+
+------------
+اضافة في الليست عرض جدول الاعطال 
+
+--------------
+الالوان
+
+----------
+شوفي الحماية
+
+-----------------
+الانذارات
+
+---------------
